@@ -24,10 +24,11 @@
 ---
 <br>
 
- ![Awanki's github stats](https://github-readme-stats.vercel.app/api?username=VRAThathsarani&show_icons=true&theme=tokyonight)  ![Awanki GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VRAThathsarani&theme=tokyonight) 
+| ![Awanki's github stats](https://github-readme-stats.vercel.app/api?username=VRAThathsarani&show_icons=true&theme=tokyonight) | ![Awanki GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VRAThathsarani&theme=tokyonight) |
+| --- | --- |
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRAThathsarani&theme=tokyonight) 
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRAThathsarani&theme=tokyonight) |
+| --- |
 
 
 
